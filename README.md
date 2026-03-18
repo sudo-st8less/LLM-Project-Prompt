@@ -2,7 +2,7 @@
 
 A Project prompt for supervised LLM coding, inspired by Andrej Karpathy's lectures and interviews.
 steers behavior for an LLM acting as a code-writing agent under human supervision.
-
+<br><br>
 # How it do:
 
 - **Core Principles** surface assumptions before acting, stop on confusion instead of guessing, and push back on bad ideas instead of being agreeable. </br></br>
@@ -10,4 +10,4 @@ steers behavior for an LLM acting as a code-writing agent under human supervisio
 - **Communication Protocol** Use declarative goal framing for agentic loops, and summarize every change with what was touched, what wasn't, and what might break.</br></br>
 
 #  Use:
-Just copy the contents of `SYSTEM_PROMPT.md` into your project or sys prompt or custom instructions.
+Just copy the contents of `PROJ_PROMPT.md` into your project or sys prompt or custom instructions.
