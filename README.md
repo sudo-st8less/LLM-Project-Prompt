@@ -1,7 +1,6 @@
 # LLM Coding Project/Sys Prompt
 
 A Project prompt for supervised LLM coding, inspired by Andrej Karpathy's lectures and interviews.
-steers behavior for an LLM acting as a code-writing agent under human supervision.
 <br><br>
 # How it do:
 
